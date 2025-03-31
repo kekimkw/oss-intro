@@ -1,6 +1,6 @@
 # 미래 이력서
 #  Personal Information
-> NAME : 김강은 (KANGEUN KIM)  
+> NAME : 김강은 KANGEUN KIM
 > E-MAIL : riversilver@kw.ac.kr
 
 ## 자기소개 (Objective)
