@@ -1,6 +1,6 @@
 # 미래 이력서
 #  Personal Information
-> NAME : 김강은 KANGEUN KIM
+> NAME : 김강은 KANGEUN KIM  
 > E-MAIL : riversilver@kw.ac.kr
 
 ## 자기소개 (Objective)
@@ -29,4 +29,9 @@
   * HTML을 활용하여 웹사이트 구현
     * 역할 : 웹페이지 구조 설계 및 디자인
 
-
+## 수상
+|연도|대회|기관|시상|
+|---|:---:|:---:|---|
+|2026|취업UP 게임개발대회|서울특별시교육청|금상|
+|2027|대학생 오픈소스 SW 경진대회|NAVER|최우수상|
+|2027|KETIMOBIUS 2.0 IoT 서비스 개발자 대회|KETIIMOBIUS|금상|
